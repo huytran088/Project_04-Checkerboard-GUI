@@ -1,4 +1,8 @@
 # Project_04
-# CSE 271
-# Miami University
+Copyright Huy Tran Quang 2020
+
+CSE 271
+
+Miami University
+
 Building a GUI for a checker game
